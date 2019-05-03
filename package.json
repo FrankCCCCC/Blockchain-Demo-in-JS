@@ -1,0 +1,20 @@
+{
+  "name": "chain",
+  "version": "1.0.0",
+  "description": "Implement a simple blockchain and cyptocurrent with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo /test/ && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "SYC",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
